@@ -1,5 +1,7 @@
 🌌 3D Solar System Simulation
 
+Live Link:https://solar-system-pied-theta.vercel.app/
+
 A web-based interactive simulation of the solar system using Three.js.
 Each planet orbits the sun with its own speed, and tooltip on hover. A starfield adds depth to the space environment.
 
